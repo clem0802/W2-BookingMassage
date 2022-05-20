@@ -1,0 +1,22 @@
+.banner {
+    background-image: url("../../assets/massage.jpeg");
+    background-position: center;
+    background-size: cover;
+    padding: 24px;
+    height: 500px;
+    width: 300px;
+    font-size: 18px;
+    border-radius: 8px;
+}
+
+.banner-top {
+    height: 40%;
+    color: white;
+}
+
+.banner-bottom {
+    height: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
